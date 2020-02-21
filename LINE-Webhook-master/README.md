@@ -7,7 +7,6 @@ the LINE-Webhook starter-kit for LINE Messeaging API webhook
 
 ## Configure
  
-
 `LINE-Webhook\Web.config` set `AccessToken` and `ChannelSecret` attributes
 
 ```xml
